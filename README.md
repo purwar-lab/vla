@@ -6,6 +6,37 @@ The goal of this repository is to ensure full reproducibility of the experiments
 
 ---
 
+### High Camera View
+<video controls width="300">
+  <source src="videos/high/episode_002002.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300">
+  <source src="videos/high/episode_002003.mp4" type="video/mp4">
+</video>
+
+<video controls width="300">
+  <source src="videos/high/episode_002004.mp4" type="video/mp4">
+</video>
+
+### Front Camera View
+
+<video controls width="300">
+  <source src="videos/front/episode_002002.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300">
+  <source src="videos/front/episode_002003.mp4" type="video/mp4">
+</video>
+
+<video controls width="300">
+  <source src="videos/front/episode_002004.mp4" type="video/mp4">
+</video>
+
+
+
 ## 📂 Repository Structure
 
 The repository allows for versioned experimentation. The folders `v1` and `v2` correspond to the specific experimental iterations discussed in the paper. Both versions have **identical directory structures**, differing only in configuration choices and model checkpoints.
