@@ -6,35 +6,55 @@ The goal of this repository is to ensure full reproducibility of the experiments
 
 ---
 
-### High Camera View
-<video controls width="300">
-  <source src="videos/high/episode_002002.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<table>
+  <tr>
+    <th colspan="3" align="center">High Camera View</th>
+  </tr>
+  <tr>
+    <td width="33%">
+      <!-- <h4 align="center">Episode 2002</h4> -->
+      <a href="https://github.com/user-attachments/assets/37760cec-5bdb-4f9d-be81-e403258abb58">
+        <video src="https://github.com/user-attachments/assets/37760cec-5bdb-4f9d-be81-e403258abb58" width="100%" controls autoplay></video>
+      </a>
+    </td>
+    <td width="33%">
+      <!-- <h4 align="center">Episode 2003</h4> -->
+      <a href="https://github.com/user-attachments/assets/38e8c431-1196-4c61-9829-164e3666db54">
+        <video src="https://github.com/user-attachments/assets/38e8c431-1196-4c61-9829-164e3666db54" width="100%" controls></video>
+      </a>
+    </td>
+    <td width="33%">
+      <!-- <h4 align="center">Episode 2004</h4> -->
+      <a href="https://github.com/user-attachments/assets/fa8f22c6-b496-4719-b680-189777386a67">
+        <video src="https://github.com/user-attachments/assets/fa8f22c6-b496-4719-b680-189777386a67" width="100%" controls></video>
+      </a>
+    </td>
+  </tr>
 
-<video controls width="300">
-  <source src="videos/high/episode_002003.mp4" type="video/mp4">
-</video>
-
-<video controls width="300">
-  <source src="videos/high/episode_002004.mp4" type="video/mp4">
-</video>
-
-### Front Camera View
-
-<video controls width="300">
-  <source src="videos/front/episode_002002.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video controls width="300">
-  <source src="videos/front/episode_002003.mp4" type="video/mp4">
-</video>
-
-<video controls width="300">
-  <source src="videos/front/episode_002004.mp4" type="video/mp4">
-</video>
-
+  <tr>
+    <th colspan="3" align="center">Front Camera View</th>
+  </tr>
+  <tr>
+    <td width="33%">
+      <!-- <h4 align="center">Episode 2002</h4> -->
+      <a href="https://github.com/user-attachments/assets/d04ee529-2d17-45c9-b742-a88f1ef79c07">
+        <video src="https://github.com/user-attachments/assets/d04ee529-2d17-45c9-b742-a88f1ef79c07" width="100%" controls></video>
+      </a>
+    </td>
+    <td width="33%">
+      <!-- <h4 align="center">Episode 2003</h4> -->
+      <a href="https://github.com/user-attachments/assets/2cd037de-3b15-462d-a2ce-ecc3e872c13a">
+        <video src="https://github.com/user-attachments/assets/2cd037de-3b15-462d-a2ce-ecc3e872c13a" width="100%" controls></video>
+      </a>
+    </td>
+    <td width="33%">
+      <!-- <h4 align="center">Episode 2004</h4> -->
+      <a href="https://github.com/user-attachments/assets/e010a557-9fdb-4cec-954b-a8ea9331b147">
+        <video src="https://github.com/user-attachments/assets/e010a557-9fdb-4cec-954b-a8ea9331b147" width="100%" controls></video>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📂 Repository Structure
